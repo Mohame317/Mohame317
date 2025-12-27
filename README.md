@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Mohamed
-- 👀 I’m interested in robot
-- 🌱 I’m currently learning Ros & robot
+- 🤖 I’m interested in robot
+- 💻 I’m currently learning Ros & robot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
